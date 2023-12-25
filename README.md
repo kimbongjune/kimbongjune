@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align='center'>💻꾸준히 성장하는 개발자 김봉준입니다.</div>
 <br>
 <div align='center'> ✉Email : <a href="mailto:nocdu112@naver.com">nocdu112@naver.com</a></div>
-<div align='center'> 🔗Notion : <a href="https://abounding-clownfish-456.notion.site/ad2aada83941444b8dad98e429b0143f">노션링크</a></div>
+<div align='center'> 🔗Notion : <a href="https://abounding-clownfish-456.notion.site/b2a82aac6b5e4a1bbb3f85cd3efda378">노션링크</a></div>
 <div align='center'> 🌐Blog : <a href="https://nocdu112.tistory.com/">블로그</a></div>
 <br>
 <br>
